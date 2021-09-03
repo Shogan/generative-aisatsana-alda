@@ -1,0 +1,10 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: https://ofaas.shogan.co.uk
+functions:
+  generative-aisatsana-alda:
+    lang: node
+    handler: ./generative-aisatsana-alda
+    image: shoganator/generative-aisatsana-alda:1.0.3
+
