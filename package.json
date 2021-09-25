@@ -1,0 +1,25 @@
+{
+  "name": "generative-aisatsana-alda",
+  "version": "1.0.0",
+  "description": "generates music with markov chains and alda",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shogan/generative-aisatsana-alda.git"
+  },
+  "keywords": [
+    "alda",
+    "generative",
+    "markov"
+  ],
+  "author": "S. Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shogan/generative-aisatsana-alda/issues"
+  },
+  "homepage": "https://github.com/Shogan/generative-aisatsana-alda#readme"
+}
